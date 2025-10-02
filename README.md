@@ -1,2 +1,2 @@
-"Đây là README được chỉnh sửa từ nhánh conflict-demo."
+"Nội dung chỉnh sửa từ nhánh main."
 Giới thiệu: Tôi là <Bùi Minh Chiến>, MSSV <226674>.
