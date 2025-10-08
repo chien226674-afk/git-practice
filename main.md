@@ -1,2 +1,2 @@
 Main file
-Sửa file Main trên nhánh feature-branch
+Sửa file Main trên cả nhánh main và feature-branch
